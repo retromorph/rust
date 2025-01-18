@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/problems/basics/bracket_sequence/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/basics/bracket_sequence/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/basics/fibonacci/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/basics/fibonacci/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/basics/palindrome/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/basics/palindrome/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/basics/prime_numbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/basics/prime_numbers/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/cargo/cargo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/cargo/cargo/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/iterators/basics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/iterators/basics/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/iterators/flatten2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/iterators/flatten2/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/iterators/shrek/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/iterators/shrek/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/iterators/split/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/iterators/split/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/ownership/add_references/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/ownership/add_references/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/ownership/flatten/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/ownership/flatten/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/ownership/kolhoz_hashmap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/ownership/where_k_th_ordinal_element_greater/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/ownership/where_k_th_ordinal_element_greater/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/projects/mmv/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/projects/mmv/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/structs/lru_cache/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/structs/lru_cache/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/structs/minmax_queue/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/structs/minmax_queue/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/structs/trust/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/structs/trust/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/tutorial/add/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problems/tutorial/add/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tools/rover/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
