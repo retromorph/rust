@@ -1,5 +1,7 @@
 #![forbid(unsafe_code)]
+
 use serde::Deserialize;
+
 #[derive(Deserialize, Debug)]
 pub struct FlipCoinConfig {
     pub players_proba: (f64, f64),

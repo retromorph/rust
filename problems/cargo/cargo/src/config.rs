@@ -7,9 +7,8 @@ use crate::games::{
 use crate::r#trait::{init_game, Round};
 use serde::Deserialize;
 
-#[derive(Deserialize)]
+#[derive(Deserialize, Debug)]
 #[serde(tag = "type", content = "config")]
-#[derive(Debug)]
 pub enum GameConfig {
     FlipCoin(FlipCoinConfig),
     RollDice(RollDiceConfig),
