@@ -1,4 +1,4 @@
-# LRU Cache
+`# LRU Cache
 
 В этой задаче Вам предстоит написать реализацию кеша со стратегией [Least Recently Used (LRU)](https://ru.wikipedia.org/wiki/Алгоритмы_кэширования#Least_recently_used_(Вытеснение_давно_неиспользуемых)).
 

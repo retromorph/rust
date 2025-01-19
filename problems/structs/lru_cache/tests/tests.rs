@@ -61,7 +61,7 @@ fn check_zero_capacity() {
 
 #[test]
 fn should_compile() {
-    #[derive(Clone, Hash, PartialEq, Eq, PartialOrd, Ord)]
+    #[derive(Clone, Hash, PartialEq, Eq, PartialOrd, Ord, Debug)]
     struct Key {
         _key: i32,
     }
@@ -84,6 +84,7 @@ fn it_works1() {
     assert!(!cache.is_empty());
     assert_eq!(cache.get(&1), Some(&1));
     assert_eq!(cache.insert(3, 3), None);
+    println!("{:?}", cache);
     assert_eq!(cache.get(&2), None);
     assert_eq!(cache.insert(4, 4), None);
     assert_eq!(cache.get(&1), None);

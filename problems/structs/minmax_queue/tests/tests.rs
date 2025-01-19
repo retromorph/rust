@@ -41,7 +41,9 @@ fn test_push() {
     assert_eq!(5, queue.len());
 
     assert_eq!(Some(0), queue.first());
+    println!("{:?}", queue);
     assert_eq!(Some(0), queue.pop());
+    println!("{:?}", queue);
     assert_eq!(Some(1), queue.min());
     assert_eq!(Some(4), queue.max());
     assert_eq!(4, queue.len());
